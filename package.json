@@ -1,0 +1,22 @@
+{
+  "name": "crush-code-restaurant-app",
+  "version": "1.0.0",
+  "description": "Mock restaurant listing app created during Crush Code Friday at gSchool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyaazizzaman/crush-code-restaurant-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyaazizzaman/crush-code-restaurant-app/issues"
+  },
+  "homepage": "https://github.com/alyaazizzaman/crush-code-restaurant-app#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
